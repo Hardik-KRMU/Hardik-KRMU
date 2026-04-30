@@ -1,5 +1,6 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋What's up.....I am Hardik</h1>
 
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hardik-KRMU&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -26,6 +27,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python logo"  />
 </div>
 
+###
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hardik-KRMU/Hardik-KRMU/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hardik-KRMU/Hardik-KRMU/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hardik-KRMU/Hardik-KRMU/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
